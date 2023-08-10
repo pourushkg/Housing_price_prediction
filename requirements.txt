@@ -1,2 +1,4 @@
 Flask
-crypt
+gunicorn
+pandas 
+numpy 
