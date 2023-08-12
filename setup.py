@@ -2,10 +2,11 @@ from setuptools import setup
 from typing import List
 
 
+
 # Declearing variable for setup functions
 PROJECT_NAME="housing_predictor"
 VERSION="0.0.2"
-AUTHOR="pourush kumar gupta"
+AUTHOR="Pourush Kumar Gupta"
 DESCRIPTION="This is my first machine learning project"
 PACKAGES=["housing"]
 REQUIREMENT_FILE_NAME="requirements.txt"
