@@ -5,7 +5,7 @@ from typing import List
 
 # Declearing variable for setup functions
 PROJECT_NAME="housing_predictor"
-VERSION="0.0.2"
+VERSION="0.0.3"
 AUTHOR="Pourush Kumar Gupta"
 DESCRIPTION="This is my first machine learning project"
 PACKAGES=["housing"]
