@@ -1,6 +1,7 @@
+numpy
 Flask
 gunicorn
-pandas 
-numpy 
+sklearn
+pandas
+PyYAML
 -e .
-datetime
